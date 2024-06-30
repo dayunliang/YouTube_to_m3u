@@ -13,6 +13,9 @@ https://www.youtube.com/watch?v=oIgbl7t0S_w
 三立新闻台 | 新闻 | https://live.fanmingming.com/tv/SETInews.png |
 https://youtu.be/oZdzzvxTfUY
 
+三立新闻台 | 新闻 | https://raw.githubusercontent.com/dayunliang/IPTV/main/三立LIVE新闻.jpeg|
+https://youtu.be/ggnr_2sD7zU
+
 東森新聞台 | 新闻 | https://live.fanmingming.com/tv/EBCNews.png |
 https://youtu.be/V1p33hqPrUk
 
