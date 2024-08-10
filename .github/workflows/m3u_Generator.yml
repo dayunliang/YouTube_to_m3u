@@ -49,5 +49,10 @@ jobs:
 
       - name: commit & push
         run: |
-          git commit -m "links are updated" --allow-empty
-          git push
+          if [ -z "$(git status --porcelain)" ]; then
+            echo "No changes to commit."
+            exit 0
+          else
+            git commit -m "links are updated"
+            git push
+          fi
