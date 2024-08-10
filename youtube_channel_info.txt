@@ -2,7 +2,7 @@
 ~~ FORMAT: <channel name> | <group name> | <logo> | <tvg-id>
 
 凤凰卫视资讯台 | 新闻 | https://live.fanmingming.com/tv/fenghuangzixun.png |
-https://www.youtube.com/watch?v=HFib76ySpbU
+https://youtu.be/HFib76ySpbU
 
 TVBS新闻台 | 新闻 | https://live.fanmingming.com/tv/TVBS新闻.png |
 https://www.youtube.com/watch?v=m_dhMSvUCIc
