@@ -12,7 +12,7 @@
 
 
 #EXTINF:-1 group-title="新闻" tvg-logo="https://live.fanmingming.com/tv/fenghuangzixun.png" tvg-id="", 凤凰卫视资讯台
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1741954258/ei/csjTZ5aSDuiQsfIPyPOG0A0/ip/52.234.38.116/id/HFib76ySpbU.2/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/tx/51414240/txs/51414239%2C51414240/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/bui/AUWDL3zrBRoSjtckqrLAsRkkzfc9s_Z9epJ1ytb0WXTbwkbOqw4kkBZxgshEjvSLgEKQlpAaavMXc-mp/spc/RjZbSXms6DLcb6lPXMSRkspYy8H5Wm-yE7dOyvVylue8DGddSOwnMGqS1_vAV4Q/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51355912%2C51358317%2C51411872/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cbui%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRgIhAMEmuWQ8mlhTBc8rkuVMmzmy4ILTZunDtwuDs78DtMwoAiEAxFsCUpJuhFfqINB9XaW65z3pA1vfyYATecZ0zP3qjHE%3D/file/index.m3u8
+https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
 
 #EXTINF:-1 group-title="新闻" tvg-logo="https://live.fanmingming.com/tv/TVBS新闻.png" tvg-id="", TVBS新闻台
 https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
