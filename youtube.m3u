@@ -33,7 +33,7 @@ https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na
 https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
 
 #EXTINF:-1 group-title="新闻" tvg-logo="https://live.fanmingming.com/tv/中视新闻台.png" tvg-id="", 中视新闻台
-https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1754791737/ei/2aqXaOkpmpKYtA_L972ZAw/ip/64.236.145.83/id/TCnaIE_SAtM.8/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/bui/AY1jyLOx8L_czoOqN9awx_9UalrUD81dDDnQz0cQQSlSd7N9oL4POr7pIjIVGceMuNlJdxUvXxDfsziL/spc/l3OVKbRYkRbD7OBrHRIyQxSsDRQfX0l9JSOSChg5iKU3I5FrAZjlx76BFS35WOuq1eg/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51355912%2C51548755/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cbui%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRQIhAN61hiQYH4_Dc6b2SjIN8MUh9MtUvOYu4Oeh2bYnKIelAiB4xr7bcSeiIix-DvG9tZp5DyUg-yTia4gQLMO1V8ZtQw%3D%3D/file/index.m3u8
 
 #EXTINF:-1 group-title="新闻" tvg-logo="https://live.fanmingming.com/tv/民视新闻台.png" tvg-id="", 民视新闻台
 https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
@@ -48,7 +48,7 @@ https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na
 https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
 
 #EXTINF:-1 group-title="新闻" tvg-logo="https://live.fanmingming.com/tv/寰宇新闻.png" tvg-id="", 寰宇新闻台
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1754787846/ei/ppuXaO-XAZyHmLQPgInUoAc/ip/52.176.35.114/id/6IquAgfvYmc.4/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/tx/51557238/txs/51557232%2C51557233%2C51557234%2C51557235%2C51557236%2C51557237%2C51557238/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/bui/AY1jyLM7yFXDHEzIeh1P8T5LwzEiVfCT_EtsxBf0aLhE7ToGGQQBW2tuq_NVzi5LtsqqGsHvxKSSQBBt/spc/l3OVKVgjISz-Yc6X81rwV2raedP4dcH27Ht8qvXseA0YkYrEb5aYX2cTjFFgJf3U1ps/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51355912%2C51548755/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cbui%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRQIgTalEZE4Qh4hN7zp-SuQ4fZutW9qbqIREH35Xz0tyZgMCIQCo9-NBjxD65JfsMgX_Es4Tp0UaTQhyhjimmw08RXzhHQ%3D%3D/file/index.m3u8
+https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
 
 #EXTINF:-1 group-title="新闻" tvg-logo="https://live.fanmingming.com/tv/寰宇新闻.png" tvg-id="", 寰宇新闻台湾台
 https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
