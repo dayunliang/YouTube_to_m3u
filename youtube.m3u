@@ -48,10 +48,10 @@ https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na
 https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
 
 #EXTINF:-1 group-title="新闻" tvg-logo="https://live.fanmingming.com/tv/寰宇新闻.png" tvg-id="", 寰宇新闻台
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1757898061/ei/7RDHaK-6Ms-DkucPuoGLmQQ/ip/20.109.36.230/id/6IquAgfvYmc.4/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/bui/AY1jyLO5mXl08uLbRSEjQDW9rcwisF2CxBCsBhyWLq4jbBSx6IO6Z8M3L7h6YMEb_osFhCfK8ln7TtV9/spc/l3OVKT0kXoTfJ_d-5s-vJyYH7sLJKkPp6FiqFz7rpD3EOlRNy2r824nf2Dt1lZdAB3M/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51355912%2C51552689%2C51565115%2C51565681%2C51580968/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cbui%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRgIhAM7ZVL0Wag5SLOyHk0FWFfORhjhZ7q3VuOO51K5e3K92AiEAgkxzGB9RY_9Xbv3iJKinRSdOaJl6oNV7-CUZMXIf6xA%3D/file/index.m3u8
+https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
 
 #EXTINF:-1 group-title="新闻" tvg-logo="https://live.fanmingming.com/tv/寰宇新闻.png" tvg-id="", 寰宇新闻台湾台
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1757898063/ei/7xDHaNHsGb-CkucP7s72sQo/ip/20.109.36.230/id/w87VGpgd90U.11/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/bui/AY1jyLNVZLro1yIqmlQ6fVqKN6PxqJCYegG9y-jG2HRsePv97Ew8Q1vMXl7Qq735TKhJ6ep5JjXvqwH3/spc/l3OVKXOMKJn8vi_PtYURK-uJ0_wXp1yRdCU-r990_bULvZvz5tULjvTXzZbN2ZYoev8/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51355912%2C51552689%2C51565116%2C51565682%2C51580968/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cbui%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRAIgIYjfXKUMJe8IRnpnu6le4PEGszZecfnC47z2PiI9bXMCIFkbcClDQmNXEBhF_yS01IxULMDO_lPJVsTfMVNzbX4q/file/index.m3u8
+https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
 
 #EXTINF:-1 group-title="新闻" tvg-logo="https://raw.githubusercontent.com/dayunliang/IPTV/main/mnews.jpg" tvg-id="", 鏡新聞
 https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
