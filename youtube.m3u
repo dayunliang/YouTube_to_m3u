@@ -15,7 +15,7 @@
 https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
 
 #EXTINF:-1 group-title="新闻" tvg-logo="https://live.fanmingming.com/tv/TVBS新闻.png" tvg-id="", TVBS新闻台
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1777152539/ei/ud3saafYGPK7kucPou_WOA/ip/4.246.135.161/id/m_dhMSvUCIc.7/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/tx/51828960/txs/51828959%2C51828960%2C51828961/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/bui/AUUZDGJ8x_ljBDMIyskU7AxB1ZMUqjlFuuJaAxr2yweQtYYu0NFjtYSS3s_w8MKKd5D_m65D3KLPkwxT/spc/jlWaveTSq4IR22qN8EdarnF9SO71U8Imx8f8oJ7bq1SANSMb5UUBpmVN9n363Kyxn7Feow/vprv/1/go/1/ns/7jPm8tefvvcyC4UfP-0QyJcU/rqh/5/reg/0/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51565115%2C51565682%2C51869322/dover/11/n/1E_mscpL7YPAwtW/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cbui%2Cspc%2Cvprv%2Cgo%2Cns%2Crqh%2Creg%2Citag%2Cplaylist_type/sig/AHEqNM4wRAIgbwmXTUIHdKZ_N0n4Ry5Np5LxgAKND274pxSL_cRA5xcCIGSCXY9VnD-jeJOdyLk9__hJgpsBaoDX_YS5-RUMANOk/file/index.m3u8
+https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
 
 #EXTINF:-1 group-title="新闻" tvg-logo="https://live.fanmingming.com/tv/中天新闻台.png" tvg-id="", 中天新闻台
 https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
